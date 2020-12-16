@@ -14,7 +14,7 @@
 # entradas, considerando-se os pesos. Apos isso, a função de ativação analisa
 # se o valor é maior do que 60.
 
-# Os pesos e o vies do perceptron foram calculados em 5 epocas.
+# Os pesos do perceptron foram calculados em 5 epocas.
 
 .data
 
