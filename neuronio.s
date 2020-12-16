@@ -14,9 +14,7 @@
 # entradas, considerando-se os pesos. Apos isso, a função de ativação analisa
 # se o valor é maior do que 60.
 
-# Para efeito de demonstracao, os pesos e o vies do perceptron
-# ja estao sendo definidos. Considera-se que esses foram obtidos a partir de
-# um treinamento previo.
+# Os pesos e o vies do perceptron foram calculados em 5 epocas.
 
 .data
 
