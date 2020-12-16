@@ -1,8 +1,8 @@
-# ====================
-# Projeto Redes Neurais - Arquitetura de Computadores
-# Alunos: Erika Marcia e Italo Lelis
-# Professor: Luis Fabricio W. Goes
-# ====================
+# ===================================================== #
+#  Projeto Redes Neurais - Arquitetura de Computadores  #
+#  Alunos: Erika Marcia e Italo Lelis                   #
+#  Professor: Luis Fabricio W. Goes                     #
+# ===================================================== #
 
 # O perceptron tem como objetivo receber a nota (0-10) das duas provas aplicadas
 # durante o semestre (uma com peso 60 e a outra com peso 40) e retornar 0 se
