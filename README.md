@@ -11,7 +11,7 @@
 O perceptron implementado tem como objetivo receber a nota (0-10) de duas provas aplicadas
 durante um semestre (uma com peso correto 60 e a outra com peso correto 40). A partir dessas notas,
 uma função de ativação irá retornar 0 se o aluno for reprovado e 1 se o aluno for aprovado.
-Além disso, caso tenha sido aplicada alguma pontuacao extra, essa será
+Além disso, caso tenha sido aplicada alguma pontuação extra, essa será
 acresentada no viés do perceptron.
 
 Para isso, o perceptron receberá duas entradas e retornará o somatório, considerando-se os pesos calculados em uma etapa de treinamento.
