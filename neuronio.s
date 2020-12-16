@@ -133,7 +133,7 @@ for_epocas2: add $t2, $zero, $zero # j - for array
             
 
             # Carregar entrada esperada do vetor
-for_array2:  la $s1, entrada_teste_2
+for_array2: la $s1, entrada_teste_2
             move $t4, $t2
             add $t4, $t4, $t4
             add $t4, $t4, $t4
