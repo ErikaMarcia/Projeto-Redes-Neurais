@@ -1,7 +1,10 @@
 # Projeto Redes Neurais - Arquitetura de Computadores
 
-Alunos: Erika Marcia e Italo Lelis
-Professor: Luis Fabricio W. Goes
+**Alunos:** Erika Marcia e Italo Lelis
+
+**Professor:** Luis Fabricio W. Goes
+
+:link: Link do vídeo: [https://www.youtube.com/watch?v=HXRTaTP4UTI](https://www.youtube.com/watch?v=HXRTaTP4UTI)
 
 ## Sobre o projeto
 
