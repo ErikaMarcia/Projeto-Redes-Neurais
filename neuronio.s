@@ -265,10 +265,6 @@ for_array2:  la $s1, entrada_teste_2
         la $a0, mensagem_resultado
         syscall
 
-        li $v0, 1
-        move $a0, $t2
-        syscall
-
 
         # Imprimir mensagem do significado da saida
 
